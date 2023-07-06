@@ -3,3 +3,6 @@ atividade api joao
 
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://www.youtube.com/watch?v=Y3Epse4Nukw)
 
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://www.youtube.com/watch?v=qkhEpCNv5AU)
+
+
